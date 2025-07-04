@@ -1,0 +1,2 @@
+# timerjs
+Timer in JavaScript
